@@ -1,0 +1,425 @@
+{
+  "siteSettings": {
+    "orgName": "Azaria Holdings",
+    "tagline": "Safe, supported homes for vulnerable people",
+    "phone": "020 7946 0958",
+    "email": "hello@hearthandhaven.org.uk",
+    "address": "14 Willow Lane, Bristol BS8 2AA",
+    "heroTitle": "A Home is More Than a House",
+    "heroSub": "We provide safe, warm, supported homes where people can rebuild, belong and thrive — with dignity, choice and round-the-clock care when needed."
+  },
+  "homes": [
+    {
+      "id": "h1",
+      "name": "Willow Cottage",
+      "location": "Bristol, BS8",
+      "type": "Supported Living",
+      "bedrooms": 4,
+      "supportLevel": "24/7",
+      "availability": "Available",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "A warm, Edwardian semi with private garden, close to community centre and transport links. Ideal for adults with learning disabilities who value both community and quiet time.",
+      "amenities": [
+        "Garden",
+        "Level Access",
+        "En-suite Options",
+        "Communal Lounge",
+        "On-site Laundry",
+        "Cycle Storage"
+      ],
+      "support": "Waking night support, person-centred planning, support with daily living and community activities."
+    },
+    {
+      "id": "h2",
+      "name": "Cedar House",
+      "location": "Bath, BA1",
+      "type": "Shared Housing",
+      "bedrooms": 5,
+      "supportLevel": "High",
+      "availability": "Occupied",
+      "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Spacious shared house with individual tenancies, supportive housemates and a focus on independence skills.",
+      "amenities": [
+        "Private Rooms",
+        "Shared Kitchen",
+        "Training Kitchen",
+        "Garden Office",
+        "Bus Route 10m"
+      ],
+      "support": "Daily drop-ins, weekly keywork sessions, mental health recovery coaching."
+    },
+    {
+      "id": "h3",
+      "name": "Maple Flats",
+      "location": "Bristol, BS5",
+      "type": "Independent Flats",
+      "bedrooms": 1,
+      "supportLevel": "Medium",
+      "availability": "Available",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560184611-ff3e53f00e8f?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Six self-contained flats around a shared courtyard. Perfect step towards full independence.",
+      "amenities": [
+        "Self-contained",
+        "Video Entry",
+        "Communal Garden",
+        "Support Hub Nearby"
+      ],
+      "support": "Floating support 15 hours/week, tenancy sustainment, budgeting help."
+    },
+    {
+      "id": "h4",
+      "name": "Elmwood Lodge",
+      "location": "Gloucester, GL1",
+      "type": "Supported Living",
+      "bedrooms": 6,
+      "supportLevel": "High",
+      "availability": "Coming Soon",
+      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Newly refurbished lodge with sensory garden and adapted bathrooms for complex needs.",
+      "amenities": [
+        "Sensory Room",
+        "Hoists",
+        "Wet Rooms",
+        "Therapy Space"
+      ],
+      "support": "Specialist PBS-trained team, 1:1 support available."
+    },
+    {
+      "id": "h5",
+      "name": "Rowan Place",
+      "location": "Bristol, BS3",
+      "type": "Shared Housing",
+      "bedrooms": 3,
+      "supportLevel": "Medium",
+      "availability": "Available",
+      "image": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Cosy terraced home for young people leaving care, with mentor living in.",
+      "amenities": [
+        "Mentor On-site",
+        "Study Nook",
+        "Rear Yard",
+        "Bike Store"
+      ],
+      "support": "Transitions coaching, education and employment support."
+    },
+    {
+      "id": "h6",
+      "name": "Ash Grove",
+      "location": "Swindon, SN1",
+      "type": "Supported Living",
+      "bedrooms": 4,
+      "supportLevel": "24/7",
+      "availability": "Occupied",
+      "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "Calm, structured environment for adults with mental health needs.",
+      "amenities": [
+        "Quiet Rooms",
+        "Wellbeing Garden",
+        "Arts Space"
+      ],
+      "support": "Trauma-informed care, 24/7 awake staff."
+    },
+    {
+      "id": "h7",
+      "name": "Birch Court",
+      "location": "Bath, BA2",
+      "type": "Independent Flats",
+      "bedrooms": 1,
+      "supportLevel": "Low",
+      "availability": "Available",
+      "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "City-centre flats with floating support, close to colleges and work opportunities.",
+      "amenities": [
+        "City Centre",
+        "Furnished",
+        "High-speed Internet"
+      ],
+      "support": "Weekly check-ins, community linking."
+    },
+    {
+      "id": "h8",
+      "name": "Holly House",
+      "location": "Bristol, BS6",
+      "type": "Shared Housing",
+      "bedrooms": 4,
+      "supportLevel": "Medium",
+      "availability": "Available",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "description": "LGBTQ+ affirmative shared home with focus on safety and belonging.",
+      "amenities": [
+        "Inclusive Space",
+        "Private Bathrooms",
+        "Community Kitchen"
+      ],
+      "support": "Identity-affirming support, peer groups."
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "title": "24/7 Support",
+      "description": "Waking nights and on-call help, so no one faces a crisis alone.",
+      "long": "Our support workers provide consistent, respectful presence day and night, including sleep-in and waking night cover. We respond quickly and calmly, building trust over time.",
+      "icon": "Shield"
+    },
+    {
+      "id": "s2",
+      "title": "Mental Health Support",
+      "description": "Recovery-focused, trauma-informed coaching and wellbeing planning.",
+      "long": "We work alongside NHS teams, using WRAP plans, coping strategies and gentle structure to help people stay well in their own home.",
+      "icon": "Heart"
+    },
+    {
+      "id": "s3",
+      "title": "Life Skills Training",
+      "description": "Cooking, budgeting, cleaning — practical skills for independent living.",
+      "long": "Small steps, big wins. We teach in the kitchen, not the classroom, with visual recipes and patient coaching.",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "s4",
+      "title": "Community Integration",
+      "description": "We connect people to work, learning, faith and friendship.",
+      "long": "From football to pottery, we map local assets and support people to belong — not just be placed — in their neighbourhood.",
+      "icon": "Users"
+    },
+    {
+      "id": "s5",
+      "title": "Tenancy Sustainment",
+      "description": "We help people keep their home when life gets tough.",
+      "long": "Early help with benefits, arrears, neighbours and repairs. We advocate fiercely so tenancies don't fail.",
+      "icon": "HomeIcon"
+    },
+    {
+      "id": "s6",
+      "title": "Emergency Housing",
+      "description": "Rapid, safe placements when crisis hits.",
+      "long": "We hold a small number of emergency beds for social work referrals — safe tonight, with a plan for tomorrow.",
+      "icon": "LifeBuoy"
+    }
+  ],
+  "team": [
+    {
+      "id": "t1",
+      "name": "Claudette Frimpong",
+      "role": "Chief Executive",
+      "category": "Leadership",
+      "bio": "20 years in supported housing. Maya started as a night support worker and believes every home should feel like a home first.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "t2",
+      "name": "Yaw Frimpong",
+      "role": "Head of Support",
+      "category": "Leadership",
+      "bio": "Leads our practice model — PBS, trauma-informed, and relentlessly person-centred.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "t3",
+      "name": "Leila Hassan",
+      "role": "Senior Support Worker",
+      "category": "Support Workers",
+      "bio": "Specialist in complex needs and sensory support. Known for her calm and her playlists.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "t4",
+      "name": "Jonah Reid",
+      "role": "Housing Officer",
+      "category": "Housing Management",
+      "bio": "Keeps homes safe, warm and compliant — and fixes leaky taps with a smile.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "t5",
+      "name": "Aisha Khan",
+      "role": "Mental Health Practitioner",
+      "category": "Support Workers",
+      "bio": "RMN, passionate about recovery colleges and peer support.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "t6",
+      "name": "Tom Williams",
+      "role": "Tenancy Sustainment Lead",
+      "category": "Housing Management",
+      "bio": "Helps people navigate benefits and keep their tenancies strong.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "Willow Cottage garden opens for neighbours",
+      "excerpt": "Residents hosted a spring open day — 60 neighbours came, and the rhubarb sold out.",
+      "content": "Last Saturday Willow Cottage opened its garden gates. With bunting made in art group, homemade cakes and tours of the new greenhouse, residents welcomed 60 local people. 'I was nervous at first,' said Sam, who lives at Willow, 'but everyone was so friendly. It feels like we really belong here now.' Proceeds from plant sales will fund a pizza oven. Our community team will now run monthly coffee mornings.",
+      "date": "2025-03-12",
+      "category": "Community",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1000&q=80",
+      "author": "Maya P."
+    },
+    {
+      "id": "n2",
+      "title": "New PBS training for all support workers",
+      "excerpt": "Positive Behaviour Support now embedded across every home — here's what changed.",
+      "content": "We’ve invested in 3-day PBS training for all staff. Early results show fewer incidents and happier homes. Leila shares how low-arousal environments and active support make a difference.",
+      "date": "2025-02-28",
+      "category": "Practice",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1000&q=80",
+      "author": "David O."
+    },
+    {
+      "id": "n3",
+      "title": "Birch Court residents graduate college",
+      "excerpt": "Three residents completed Level 2 Health & Social Care — with jobs to follow.",
+      "content": "Huge congratulations to T, J and R at Birch Court who juggled tenancies, support sessions and college. All three have been offered bank support worker shifts with us.",
+      "date": "2025-02-10",
+      "category": "Celebration",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=80",
+      "author": "Tom W."
+    },
+    {
+      "id": "n4",
+      "title": "Cost-of-living fund: £12k raised",
+      "excerpt": "Local businesses donated to keep homes warm this winter.",
+      "content": "Thanks to our partners at Bristol Energy Co-op, we raised £12k to top up prepayment meters and run warm spaces.",
+      "date": "2025-01-20",
+      "category": "Fundraising",
+      "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1000&q=80",
+      "author": "Fundraising Team"
+    },
+    {
+      "id": "n5",
+      "title": "How we match people to homes",
+      "excerpt": "It’s not first-come first-served — it’s about fit, safety and choice.",
+      "content": "Our matching panel includes support workers, housing and — crucially — existing residents. We share anonymous profiles and visit together.",
+      "date": "2025-01-05",
+      "category": "Behind the Scenes",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1000&q=80",
+      "author": "Jonah R."
+    },
+    {
+      "id": "n6",
+      "title": "Elmwood Lodge: sneak peek",
+      "excerpt": "Sensory garden, ceiling hoists, wet rooms — a home built around complex needs.",
+      "content": "Elmwood Lodge opens in June. Built with families, it includes a sensory room, adjustable kitchen and level-access garden.",
+      "date": "2024-12-18",
+      "category": "Our Homes",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+      "author": "Maya P."
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "question": "Who can apply for a home?",
+      "answer": "Adults 18+ who need support to live safely — learning disabilities, mental health, care leavers, homelessness risk, complex needs. We accept professional referrals and self-referrals.",
+      "category": "Applying"
+    },
+    {
+      "id": "f2",
+      "question": "How long does it take?",
+      "answer": "Referral to viewing is typically 10-15 days. Matching depends on availability and fit. We keep you updated weekly.",
+      "category": "Applying"
+    },
+    {
+      "id": "f3",
+      "question": "Do you charge rent?",
+      "answer": "Yes — rents are affordable and covered by Housing Benefit/UC housing costs in most cases. We help with benefit claims and have no hidden fees.",
+      "category": "Living With Us"
+    },
+    {
+      "id": "f4",
+      "question": "Can I bring my pet?",
+      "answer": "In many homes, yes — case by case. Pets help wellbeing and we have a pet policy that supports responsible ownership.",
+      "category": "Living With Us"
+    },
+    {
+      "id": "f5",
+      "question": "What support hours do you provide?",
+      "answer": "From a few floating hours to 24/7 including waking nights. Hours are agreed in your support plan and reviewed with you.",
+      "category": "Support"
+    },
+    {
+      "id": "f6",
+      "question": "Do you work with social workers?",
+      "answer": "Absolutely. We are CQC-regulated partners and attend MDTs, CPA reviews and safeguarding meetings. We share timely notes.",
+      "category": "Support"
+    },
+    {
+      "id": "f7",
+      "question": "Are your homes regulated?",
+      "answer": "We are a registered provider with Homes England, and our care is regulated by CQC. Latest reports on our About page.",
+      "category": "General"
+    },
+    {
+      "id": "f8",
+      "question": "Can I visit before deciding?",
+      "answer": "Yes — we encourage daytime visits, overnight stays and meeting future housemates. No pressure, ever.",
+      "category": "Applying"
+    }
+  ],
+  "applications": [],
+  "messages": [],
+  "supportAudiences": [
+    {
+      "id": "a1",
+      "title": "Adults with Learning Disabilities",
+      "desc": "Active support, communication-friendly homes, choice in everyday life.",
+      "icon": "Heart"
+    },
+    {
+      "id": "a2",
+      "title": "Mental Health Needs",
+      "desc": "Trauma-informed, recovery-focused support with consistent relationships.",
+      "icon": "Shield"
+    },
+    {
+      "id": "a3",
+      "title": "Young People Leaving Care",
+      "desc": "Warm hand-holds into adulthood — tenancy skills, education, work.",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "a4",
+      "title": "Homelessness Prevention",
+      "desc": "Rapid placements and tenancy sustainment to avoid eviction.",
+      "icon": "HomeIcon"
+    },
+    {
+      "id": "a5",
+      "title": "Complex Needs",
+      "desc": "PBS-trained teams, low-arousal homes, specialist adaptations.",
+      "icon": "Sparkles"
+    }
+  ]
+}
